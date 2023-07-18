@@ -12,6 +12,12 @@
 <!-- ### Dependencies -->
 <!--  -->
 
+## oidc-agent 4.5.3
+
+### Bugfixes
+
+- Fixed a bug where oidc-agent crashed if ATs are requested through mytoken
+
 ## oidc-agent 4.5.2
 
 ### Changes
